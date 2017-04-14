@@ -19,6 +19,7 @@ public class FirstHelloWorld {
     public static void main(String[] args) {
         // TODO code application logic here
         println("HelloWorldです");
+        System.out.println("こんにちは、世界。");
     }
     
 }
